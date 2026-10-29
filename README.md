@@ -1,5 +1,7 @@
 # Very Cool Game
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 ## Описание
 
 Небольшой игровой прототип на Pygame: игрок управляет квадратным персонажем, уклоняется от преследующего врага и пытается продержаться как можно дольше.
@@ -28,3 +30,8 @@
 ## Статус
 
 WIP. Это ранний прототип, который можно развивать в полноценную аркаду: добавить несколько врагов, атаки, предметы, очки и меню перезапуска.
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
